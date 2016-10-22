@@ -6,6 +6,8 @@ var connection = mysql.createConnection({
     database: 'test'
 });
 
+test
+
 connection.connect();
 
 connection.query('SELECT * from tblusers', function (err, rows, fields) {
