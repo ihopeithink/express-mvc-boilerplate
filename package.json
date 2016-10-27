@@ -25,7 +25,8 @@
 	"sequelize": "^3.24.3",
 	"sequelize-cli": "^2.4.0",
 	"serve-favicon": "~2.3.0",
-	"view-helpers": "^0.1.5"
+	"view-helpers": "^0.1.5",
+        "bcryptjs": "^2.3.0"
     },
     "devDependencies": {
 	"mocha": "^3.0.2",
